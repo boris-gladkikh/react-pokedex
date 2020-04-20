@@ -1,0 +1,12 @@
+.poketable{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: flex-start;
+align-content: space-between;
+padding: 10px;
+background-color: #C6E7FF;
+border: 2px solid black;
+margin: 10px;
+
+}
